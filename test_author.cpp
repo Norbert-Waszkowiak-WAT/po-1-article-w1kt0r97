@@ -1,5 +1,5 @@
 #include "catch_amalgamated.hpp"
-#include "author.h"
+#include "author.cpp"
 #include <iostream>
 
 TEST_CASE("Author constructor initializes name and surname", "[constructor]") {
